@@ -5,14 +5,14 @@ description: > # this means to ignore newlines until "twitter_username:"
   Talk is Cheap. Show me the code.
 
 # social links
-twitter_username: Weisi_Zhan
+#twitter_username: Weisi_Zhan
 github_username:  wszhan
 rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-# linkedin_username: jekyll
+linkedin_username: weisi-zhan-065205a2
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # googleplus_username: +jekyll
