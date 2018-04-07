@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Weisi Zhan
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am a Junior Python engineer, working most with Deep Learning.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+You can take a look at my projects at my [GitHub](https://github.com/wszhan).
 
-
-[jekyll-organization]: https://github.com/jekyll
+I am currently actively looking for a job in Deep Learning/AI/Computer Vision/NLP. Please feel free to contact me via my email <zhanwes@gmail.com>.
