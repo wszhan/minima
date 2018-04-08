@@ -10,7 +10,7 @@ After spending almost a whole day on struggling with Jekyll, I found that most t
 So I decided to write a easiest-ever tutorial about building your website on GitHub Pages with jekyll.
 
 **Category**:
-* Register on GitHub
+>* Register on GitHub
 * Find a Jekyll Theme
 * Fork
 * Modify **\_config.yml**
@@ -18,9 +18,18 @@ So I decided to write a easiest-ever tutorial about building your website on Git
 * Add Posts
 * Go to your site
 
-### 1. Register on GitHub
+### 0. A Very Brief Introduction of GitHub, GitHub Pages and Jekyll
 
-**GitHub** is a great website, and **GitHub Pages** is a great option for most people to build their personal sites, especially suited for blog sites. The learning curve might be a little bit steep, but it is totally worth it.
+**GitHub** is a great website, where computer scientists and software engineers publish and share their works. It is one of the most influential website in the computer science world. If you want to know more about it, click [here](https://services.github.com/on-demand/intro-to-github/).
+
+**GitHub Pages** is a project where GitHub users can build their own static websites. It is a great option for most people to build their personal sites, especially suited for blog sites. The learning curve might be a little bit steep, but it is totally worth it.
+
+**Jekyll** is an excellent and useful tool used to structure your site. You can think of it as an application on your computer to arrange your websites, publish your posts, etc.
+
+These are all great tools and even after we successfully build our website with the assistance of this article, we are still from away from understanding the power of them. But for now, our goal is to build a website. We will get to know more about them later in our lives.
+
+
+### 1. Register on GitHub
 
 Registrating on GitHub would be as simple as doing it anywhere else. The steps would be:
 * Go to [GitHub.com](https://github.com/);
@@ -28,7 +37,7 @@ Registrating on GitHub would be as simple as doing it anywhere else. The steps w
 * Enter your information, and please remember what your *username* is;
 * Click **Create an account**.
 
-And it is done.
+And the first step is done.
 
 
 ### 2. Find a Jekyll Theme
