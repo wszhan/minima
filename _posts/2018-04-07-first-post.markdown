@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Post - Initial Commit."
-date:   2018-04-07 18:35:33 +0800
+date:   2018-04-07 12:35:33 +0800
 categories: 
 ---
 
