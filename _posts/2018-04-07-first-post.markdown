@@ -7,7 +7,7 @@ categories:
 
 This is an "Initial Commit" to my first personal website.
 
-It is not necessary for me to have a personal site, I know. But I really enjoy coding in all sorts of programming languages, including the one I am using exactly right now, markdown. So, I asked myself, why not building up a site, and taking it as a way to get familiarized with a new skill.
+It is not necessary for me to have a personal site, I know. But I really enjoy coding in all sorts of programming languages, including HTML, CSS, JavaScript. So, I asked myself, why not building up a site, and taking it as a way to get familiarized with a new skill.
 
 So here comes this site.
 
@@ -16,4 +16,4 @@ From the very beginning of learning programming, I have always been eager to lea
 
 So here comes this site.
 
-Currently, my major mission is to find a job in AI, ideally deep learning, computer vision or natural language processing. But still, hope to start my second post asap.
+Currently, my major mission is to find a job in AI, ideally deep learning, computer vision or natural language processing. But still, I would try my best to share my thoughts here with the worldwide coding community.
