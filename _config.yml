@@ -3,7 +3,7 @@ author: All rights reserved.
 email: zhanwes@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
   Talk is Cheap. Show me the code.
-baseurl: "/wszhan"
+#baseurl: "/wszhan"
 # social links
 #twitter_username: Weisi_Zhan
 github_username:  wszhan
