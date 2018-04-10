@@ -9,8 +9,6 @@ It is actually a **Markdown** problem. And Jekyll has provided the code in its [
 
 The example code in the documentation is [here](https://jekyllrb.com/docs/templates/#linking-to-posts).
 
-Before moving on, please make sure that a ```baseurl``` attribute should be in the ```_config.yml``` file.
-
 Explanation of the example code:
 - ```[Name of Link]``` is just a name. It can be anything.
 - Do not modify ```site.baseurl```. Your ```baseurl``` will replace the ```site.baseurl``` here in the link.
