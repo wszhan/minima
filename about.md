@@ -10,6 +10,8 @@ permalink: /about/
 
 [My LinkedIn](https://www.linkedin.com/in/weisi-zhan-065205a2/)
 
+This is my blog, most posts of which are mainly about Python, Deep Learning, Neural Network, and related topics.
+
 Keywords about me:
 * **Python Programming**
 * **Deep Learning**

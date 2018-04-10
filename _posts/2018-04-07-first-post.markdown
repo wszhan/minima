@@ -5,6 +5,8 @@ date:   2018-04-07 12:35:33 +0800
 categories: 
 ---
 
+>**Talk is cheap. Show me the code.**
+
 This is an "Initial Commit" to my first personal website.
 
 It is not necessary for me to have a personal site, I know. But I really enjoy coding in all sorts of programming languages, including HTML, CSS, JavaScript. So, I asked myself, why not building up a site, and taking it as a way to get familiarized with a new skill.

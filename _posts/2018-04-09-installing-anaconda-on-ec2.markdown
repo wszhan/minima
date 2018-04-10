@@ -5,6 +5,8 @@ date:   2018-04-09 15:50:33 +0800
 categories: 
 ---
 
+![Anaconda](http://ijstokes-public.s3.amazonaws.com/dspyr/img/AnacondaCIO_Logo){:width="60%"}
+
 For more information about installing TensorFlow on EC2 Instance, plase check **TensorFlow Version and Installation** part in [my another post]({{ site.baseurl }}{% post_url 2018-04-09-udacity-dlnd-p3 %}).
 
 Although not required, but you are highly recommended to launch a new EC2 instance on AWS before proceeding, especially when your existing instance has been used and modified.

@@ -9,12 +9,13 @@ categories:
 I successfully finished my third project with all the solutions I am sharing here. However, I could not guarantee that they work for you too. Better check [summary](#summary) before moving forward on this post.
 
 Contents:
->* UTF-8 locale issue
+* UTF-8 locale issue
 * TensorFlow Version
 * TensorFlow Installation
 * The Mysterious Training Loss
+* Summary
 
-## UTF-8 locale issue
+## 1. UTF-8 locale issue
 
 If you have the same problem as I did as follows:
 ```
@@ -68,7 +69,7 @@ Use up and down arrow keys and ```Enter``` to choose and confirm the reconfigura
 
 NOTE: The bug didn't go away until I **restarted jupyter notebook server**.
 
-## TensorFlow Version
+## 2. TensorFlow Version
 
 Make sure you know what version of tensorflow-gpu needed for your project before you install tensorflow GPU. Projects in different time period or in different languages require different versions of tensorflow-gpu. For example, the global version of project 3 requires tensorflow version later than 1.3.0; however, the Chinese version requires [tensorflow version of 1.0.0, or 1.0.1 in some cases](https://discussions.youdaxue.com/t/p3/44550).
 
@@ -78,11 +79,11 @@ python --version
 ```
 in your terminal. 
 
-## TensorFlow Installation
+## 3. TensorFlow Installation
 
 There are two ways to install TensorFlow-GPU on your EC2 instance. Any one of them that works for you would be fine (which means that one of them might not work, as in my case).
 
-### Install tensorflow-gpu with pip
+### i. Install tensorflow-gpu with pip
 
 **```pip install``` doesn't work for me.** I am still listing it here because some students on slack  said this work for them. Better have one more option.
 
@@ -92,7 +93,7 @@ pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorfl
 
 The above means that I am intalling a ```1.3.0``` version GPU-supported TensorFlow (```tensorflow_gpu```) for Python of version 3.5 ```cp35```.
 
-### Install tensorflow-gpu with conda
+### ii. Install tensorflow-gpu with conda
 
 Installing ```tensorflow-gpu``` with ```conda``` command might have potential compatibility issues, but ```pip``` version of tensorflow-gpu doesn't work for me, but the conda version does. Always go with the one that fits your situation.
 
@@ -108,7 +109,7 @@ conda install -c anaconda tensorflow-gpu
 ```
 
 
-## The Mysterious Training Loss
+## 4. The Mysterious Training Loss
 
 It throws no error but you can tell something is wrong with the model.
 ```

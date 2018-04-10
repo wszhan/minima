@@ -5,6 +5,8 @@ date:   2018-04-10 15:50:33 +0800
 categories: 
 ---
 
+![Jupyter Notebook](https://cdn-images-1.medium.com/max/1600/1*LPnY8nOLg4S6_TG0DEXwsg.png)
+
 While using AWS, I am always using Jupyter Notebook in Anaconda environments, so this post is exclusively about Jupyter notebook with Anaconda.
 
 If you want to know more about installing Anaconda on AWS, check [here]({{ site.baseurl }}{% post_url 2018-04-09-installing-anaconda-on-ec2 %}).
@@ -29,7 +31,12 @@ Before this step, make sure that you add **a security group** in your AWS instan
 ```
 jupyter notebook --no-browser --ip=0.0.0.0
 ```
+
 You can even specify the port you want to use.
+```
+jupyter notebook --no-browser --ip=0.0.0.0 --port=8888
+```
+But this is unefficient for me. So I usually killed the program listening on port 8888 before restarting Jupyter Notebook.
 
 You will see the following message.
 

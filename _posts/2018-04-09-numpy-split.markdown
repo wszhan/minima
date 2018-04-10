@@ -5,6 +5,8 @@ date:   2018-04-09 15:50:33 +0800
 categories: 
 ---
 
+![NumPy](https://secure.meetupstatic.com/photos/event/b/4/9/3/600_463786227.jpeg)
+
 The NumPy.split() function is pretty useful why you want to turn a 1-d array into a desired shape.
 
 It takes a while to understand but it is totally worth it.
