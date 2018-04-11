@@ -147,7 +147,7 @@ However, to avoid all these pitfalls for the future projects, which might be eve
 - **The shape of the inputs and outputs**
 - **The version of the libraries in your environment.**
 
-All these seem trivial but they are not.
+These principles seem trivial but they are not.
 
 Reference:
 
