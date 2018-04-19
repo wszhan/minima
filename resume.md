@@ -17,7 +17,7 @@ Know how to use:
 
 #### **Udacity**
 
-**Deep Learning Nanodegree, Udacity, 2017.11 - 2018.04**
+**Deep Learning Nanodegree, Udacity, 2018.01 - 2018.04**
 > Most projects are implemented in Keras and Tensorflow, as well as open-source libraries, such as NumPy, Scikit-Learn, PIL, OpenCV3, etc.
 
 * Convolutional Neural Network, Autoencoders

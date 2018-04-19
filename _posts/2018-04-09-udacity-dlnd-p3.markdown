@@ -131,7 +131,7 @@ Epoch   0 Batch   14/16   train_loss = nan
 Epoch   0 Batch   15/16   train_loss = nan
 ```
 
-**There are two possible pitfalls for this error.** I can't post my code here because it is against the [Udacity Honor Code](https://www.udacity.com/legal/community-guidelines). So I will share some hints that helped me out here. Usually the bug might reside in yoru ```create_lookup_tables``` function, that is the first function you must implement.
+**There are two possible pitfalls for this error.** I can't post my code here because it is against the [Udacity Honor Code](https://www.udacity.com/legal/community-guidelines). So I will share some hints that helped me out here. Usually the bug might reside in your ```create_lookup_tables``` function, that is the first function you must implement.
 * The two outputs are dictionaries, they should not contain duplicate keys or values.
 * The integer values that represent the words should start from 0. I haven't got any idea how this causes the ```nan``` training loss, but it did. I believe that most people who finished the previous **Sentiment Prediction RNN** exercise would, just as I did, start the value from 0. **Please share with me if you know why this is an issue.**
 
