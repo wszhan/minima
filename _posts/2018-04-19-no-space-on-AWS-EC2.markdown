@@ -7,7 +7,7 @@ categories:
 
 It is easy to run out of space on AWS EC2 instance. There could be many reasons and also there are some workaround with which you can avoid this problem. But when this problem occurs, this is what we can do.
 
-First, while I am downloading the **CelebA** dataset via `wget`, I got no error but this prompt:
+First, while I am downloading the [**CelebA**](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) dataset via `wget`, I got no error but this prompt:
 ```
 Saving to: ‘celeba.zip’
 
