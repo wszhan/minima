@@ -22,7 +22,7 @@ Know how to use:
 
 * Convolutional Neural Network, Autoencoders
 * Recurrent Neural Network, Embeddings and Word2Vec, Sentiment Analysis
-
+* Reinforcement Learning
 
 **Deep Learning, Coursera/Deeplearning.ai, 2017.11 - 2018.04**
 > This course is taught by Professor Andrew Ng from Stanford University. Most important theories and papers in deep learning are covered.
