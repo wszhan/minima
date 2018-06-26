@@ -5,58 +5,57 @@ permalink: /resume/
 ---
 
 ## Weisi Zhan
+**Machine Learning Engineer & Data Scientist**
+
 Email: zhanwes at gmail dot com
 
-[Zhan's GitHub](https://github.com/wszhan)
+[GitHub](https://github.com/wszhan)
 
-[Zhan's StackOverflow](https://stackoverflow.com/users/8100760/weisi-zhan)
+[StackOverflow](https://stackoverflow.com/users/8100760/weisi-zhan)
 
-[Zhan's LinkedIn](https://www.linkedin.com/in/weisi-zhan-065205a2/)
+[LinkedIn](https://www.linkedin.com/in/weisi-zhan-065205a2/)
 
-### Brief Introduction
-
-What I am able to do:
-- Read machine learning/deep learning papers and **implement the state-of-the-art algorithms** in Python
-- **Troubleshoot problems proactively** by integrating all possible resources
-- **Teamwork with people of various backgrounds** both online and offline
-- Communicate professionally in **English, Chinese Mandarin, and Cantonese**
-
-### Skills
+### Programming Tools
 Familiar with:
-- Python, NumPy, Matplotlib, Pandas, Keras, Tensorflow
-- Object-oriented programming (in Python)
+- Python, Scikit-Learn, NumPy, Pandas, Matplotlib, TensorFlow, Keras, Unix, Git
 
 Have experience using:
-- Scikit-Learn, OpenCV3, MySQL, C
-- Unix, Ubuntu, Linux
+- AWS, Java, MySQL, C, OpenCV, PIL, ROS, Makefile
+
+### Skills
+
+- Data wrangling and data analysis in Python
+- Implementing state-of-the-art machine learning & deep learning algorithms in Python 
+- Teamworking with coworkers of various backgrounds
+- Fluent in English, Chinese Mandarin, and Cantonese
+
+### Projects
+
+* Reinforcement Learning: Quadcopter Control Automation _(the code of this project is prohibited from being shared due to confidentiality)_
+
+* Recurrent Neural Network, Embeddings and Word2Vec, Sentiment Analysis: [TV Script Generation](https://github.com/wszhan/tv-script-generation_the-simpsons)
+
+* Convolutional Neural Network, Autoencoders: [Dog Breed Identification](https://github.com/wszhan/dog-breed-identifier)
+
+* Deep Convolutional Generative Adversarial Network, or DCGAN: [Face Generation](https://github.com/wszhan/face-generation)
+
+* Neural Networks, Classification, and Regression Analysis: Bike Sharing Data Analysis and Prediction
 
 ### Education
 
 #### **Udacity**
 
-**Deep Learning Nanodegree, Udacity, 2018.01 - 2018.06**
-> The focus of this Nanodegree is to implementation state-of-the-art algorithms by reading classic and up-to-date papers. The implementations are mostly in Python, Keras and Tensorflow, with the aid of other open-source libraries, such as NumPy, Pandas, Matplotlib, Scikit-Learn, PIL, OpenCV3, etc.
-
-* Reinforcement Learning: Quadcopter Control Automation _(the code of this project is prohibited from being shared due to confidentiality reasons)_
-* Recurrent Neural Network, Embeddings and Word2Vec, Sentiment Analysis: [TV Script Generation](https://github.com/wszhan/tv-script-generation_the-simpsons)
-* Convolutional Neural Network, Autoencoders: [Dog Breed Identification](https://github.com/wszhan/dog-breed-identifier)
-* Deep Convolutional Generative Adversarial Network, or DCGAN: [Face Generation](https://github.com/wszhan/face-generation)
-* Neural Networks, Classification, and Regression Analysis: Bike Sharing Data Analysis and Prediction
+**Deep Learning Nanodegree, Udacity, 2017.12 - 2018.06**
+- Implement state-of-the-art algorithms from latest papers
+- Build, train, test, improve machine learning and deep learning models
+- Have done projects that involves the knowledge of computer vision, natural language processing, robot automation
 
 **Deep Learning, Coursera/Deeplearning.ai, 2017.11 - 2018.04**
-> This course is taught by Professor Andrew Ng from Stanford University. Most important theories and papers in deep learning are covered.
-
-* Neural Networks and Deep Learning
-* Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-* Structuring Machine Learning Projects
-* Convolutional Neural Networks: Object Recognition and Localization
-* Sequence Models: RNN and LSTM
+* Structure machine learning projects and streamline machine learning engineering process
+* Effectively fine-tune hyperparameter, implements regularization and optimization
 
 **Computer Science and Programming, 42 Silicon Valley, 2017.10 - 2017.11**
-> I attended this bootcamp in Fremont, California, for a whole month. The foci of this bootcamp are **programming and troubleshooting independently, teamworking with people from all over the world**. 
-
-* Programming in C
-* Makefile, Unix, Git
-* Team projects:
+- C Programming and Unix
+- Team projects:
 	* Sudoku in Terminal, developed in C
-	* Generation and recognition of arbitrary shape objects in terminal, developed in C
+	* Generation and recognition of arbitrary shape objects, developed in C and run in terminal

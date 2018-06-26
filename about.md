@@ -12,6 +12,6 @@ permalink: /about/
 
 [Zhan's LinkedIn](https://www.linkedin.com/in/weisi-zhan-065205a2/)
 
-This is a tech blog, most posts of which are mainly about Python, Deep Learning, Neural Network, and related topics.
+This is my tech blog, where I share my knowledge of machine learning, deep learning, data analysis and general programming with the community.
 
 Please check **[my résumé]({{ site.baseurl }}{% link resume.md %})** for more information.
