@@ -18,7 +18,8 @@ Steps:
 - Open the website: https://nbviewer.jupyter.org/
 
 - Go to the page of your jupyter notebook page, where the url is like 
-```https://github.com/wszhan/tv-script-generation_the-simpsons/blob/master/dlnd_tv_script_generation.ipynb
+```
+https://github.com/wszhan/tv-script-generation_the-simpsons/blob/master/dlnd_tv_script_generation.ipynb
 ```
 
 - Combien the two urls into something like
