@@ -32,5 +32,4 @@ References:
 
 - [Loss Functions - ML Cheatsheet](http://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html#cross-entropy)
 
-- [What is cross-entropy?
- - StackOverflow](https://stackoverflow.com/questions/41990250/what-is-cross-entropy?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+- [What is cross-entropy? - StackOverflow](https://stackoverflow.com/questions/41990250/what-is-cross-entropy?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
