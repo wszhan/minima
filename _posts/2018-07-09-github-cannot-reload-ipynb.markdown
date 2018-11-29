@@ -22,7 +22,7 @@ Steps:
 https://github.com/wszhan/tv-script-generation_the-simpsons/blob/master/dlnd_tv_script_generation.ipynb
 ```
 
-- Combien the two urls into something like
+- Combine the two urls into something like
 ```
 https://nbviewer.jupyter.org/github/wszhan/tv-script-generation_the-simpsons/blob/master/dlnd_tv_script_generation.ipynb
 ```
