@@ -13,7 +13,7 @@ In this case, you can imagine that the number axis is curved and forms a circle,
 
 This is why the in Java, `Math.abs(-2147483648)` or `Math.abs(Integer.MIN_VALUE)` is still `-2147483648`.
 
-BTW, 2147483648 equals 2^32 and 2147483647 2^32-1. That's what 32-bit matters.
+BTW, 2147483648 equals 2^31 and 2147483647 2^31-1, which adds up to 2^32. That's why 32-bit matters.
 
 References:
 
