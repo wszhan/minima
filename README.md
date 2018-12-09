@@ -1,6 +1,6 @@
 # Weisi Zhan's Website
 
-This is Weisi Zhan's blog website. Most posts are on programming, technology, computer science, and deep learning. 
+This is Weisi Zhan's blog website. Everything here is about programming. 
 
 Check [the website](https://wszhan.github.io/) for Weisi Zhan's writings.
 
