@@ -12,7 +12,7 @@ permalink: /about/
 
 [Zhan's StackOverflow](https://stackoverflow.com/users/8100760/weisi-zhan)
 
-[Zhan's LinkedIn](https://www.linkedin.com/in/weisi-zhan-065205a2/)
+[Zhan's LinkedIn](https://www.linkedin.com/in/weisi-z-065205a2/)
 
 This is my tech blog, where I share my knowledge of coding.
 

@@ -6,6 +6,7 @@ permalink: /resume/
 
 ## Weisi Zhan
 **Java/Python**
+
 **Software/Web**
 
 Email: emhhbndlc0BnbWFpbC5jb20=
@@ -14,7 +15,7 @@ Email: emhhbndlc0BnbWFpbC5jb20=
 
 [StackOverflow](https://stackoverflow.com/users/8100760/weisi-zhan)
 
-[LinkedIn](https://www.linkedin.com/in/weisi-zhan-065205a2/)
+[LinkedIn](https://www.linkedin.com/in/weisi-z-065205a2/)
 
 ### Programming Tools
 - Java: Spring, SpringMVC, MyBatis
